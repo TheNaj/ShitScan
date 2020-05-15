@@ -1,10 +1,12 @@
 Welcome to ShitScan. The shittiest port scanner of all time!
 
------------------------------------------------------------- 
-To use ShitScan, cd into this folder and run:
+--------------------------------------------------------------------
+To use ShitScan, cd into the folder you downloaded this on and run:
 
 python3 ShitScan.py (PUT IP ADDRESS HERE)
-------------------------------------------------------------
+--------------------------------------------------------------------
+
+HINT: (if you don't have python3 installed, this wont work obviously :). )
 
 I may be updating this shit poopoo scanner soon, who knows.
 
